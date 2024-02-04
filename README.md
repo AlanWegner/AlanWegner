@@ -9,7 +9,7 @@ I am currently studying web development, I love being able to acquire new profes
 </div>
 
 ---
-### About Me:
+### :floppy_disk: About Me:
 - :email: you can contact me through my email: alanwegnerm@gmail.com
 - :computer: I am currently studying: Node.js, React and MongoDB.
 ---
