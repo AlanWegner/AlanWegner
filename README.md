@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7380C&random=false&width=435&lines=Hello+dear!+My+name+is+Alan+😄)](https://git.io/typing-svg)
 
 
-<h4>I am currently studying web development, I love being able to acquire new professional development knowledge aimed at using the PC. In the near future I intend to be able to teach what I have learned, and continue learning constantly.</h4>
+<h4>Trabajo en la industria metalúrgica hace 13 años. En el 2022, empecé mí carrera en el área IT estudiando Programación. Me encuentro estudiando activamente para explorar áreas laborales diferentes, que se alineen con mis habilidades y brinden oportunidades de crecimiento.
+ Con una mentalidad orientada al aprendizaje constante, busco no solo mejorar mi situación laboral y económica, sino también contribuir al bienestar de la comunidad. Mi objetivo es no solo adquirir conocimiento, sino también compartirlo para beneficiar a otros. Aprecio su tiempo de lectura y estoy emocionado por las oportunidades que el futuro pueda ofrecer..</h4>
 
 ---
 ### :floppy_disk: About Me:
