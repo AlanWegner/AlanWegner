@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <h3 align="center">I am currently studying web development, I love being able to acquire new professional development knowledge aimed at using the PC. In the near future I intend to be able to teach what I have learned, and continue learning constantly.</h3>
+  <h4 align="center">I am currently studying web development, I love being able to acquire new professional development knowledge aimed at using the PC. In the near future I intend to be able to teach what I have learned, and continue learning constantly.</h4>
 </div>
 
 ---
