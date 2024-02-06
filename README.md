@@ -12,19 +12,19 @@
 <!--Tech stack icons-->
 <div align="left">
     <h2>Tecnologías conocidas👨🏻‍💻:</h2>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" title="JQuery" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="" width="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" title="Markdown" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustraitor" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="Adobe After Effects" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" title="Adobe Photoshop" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Adobe Illustraitor" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="" width="40"/>&nbsp;
     <h2>Actualmente estoy aprendiendo👨🏻‍💻:</h2>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="" width="40"/>&nbsp;
