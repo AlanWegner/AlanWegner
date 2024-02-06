@@ -37,3 +37,5 @@
  </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<a href = "mailto:alanwegnerm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="alanwegnerm@gmail.com" alt="@alanwegnerm" /></a>
+
