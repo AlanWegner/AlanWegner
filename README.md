@@ -13,7 +13,7 @@
 <div align="left">
     <h2>Tecnologías conocidas👨🏻‍💻:</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="" width="40"/>&nbsp;
-        <img src="" title="" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="" width="40"/>&nbsp;
         <img src="" title="" alt="" width="40"/>&nbsp;
         <img src="" title="" alt="" width="40"/>&nbsp;
         <img src="" title="" alt="" width="40"/>&nbsp;
