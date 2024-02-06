@@ -40,13 +40,9 @@
 <p align="left">
 <h2>Contáctame✨:</h2>
    <a href ="mailto:alanwegnerm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="alanwegnerm@gmail.com" alt="@alanwegnerm" /></a>
-
    <a href ="https://wa.me/5493412552505" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+54 9 3412552505" alt="" /></a>
-
    <a href ="https://t.me/AlWegnerM" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="https://t.me/AlWegnerM" /></a>
-
    <a href="https://www.linkedin.com/in/alan-wegner-moreno/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Alan Wegner Moreno" /></a>
-
    <a href="https://www.instagram.com/alwegner/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="alwegner" /></a>
 </p>
 <br>
