@@ -18,13 +18,13 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" title="JQuery" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" title="Markdown" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" title="Adobe Photoshop" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Adobe Illustraitor" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="" width="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" alt="Adobe After Effects" width="40"/>&nbsp;
     <h2>Actualmente estoy aprendiendo👨🏻‍💻:</h2>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="" width="40"/>&nbsp;
