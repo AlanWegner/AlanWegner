@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7380C&random=false&width=435&lines=Hello+dear!+My+name+is+Alan+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ED2DD&random=false&width=435&lines=Muy+buenas!+Mi+nombre++es+Alan+%F0%9F%98%83)](https://git.io/typing-svg)
 
    <div id="header" align="justify">
       <h4>
