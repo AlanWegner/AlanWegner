@@ -19,7 +19,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="" width="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="" width="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="" alt="Markdown" width="40"/>&nbsp;
-        ---
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="" width="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustraitor" alt="" width="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="Adobe After Effects" alt="" width="40"/>&nbsp;
