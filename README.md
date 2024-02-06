@@ -11,5 +11,6 @@
 ### :floppy_disk: About Me:
 - :email: you can contact me through my email: alanwegnerm@gmail.com
 - :computer: I am currently studying: Node.js, React and MongoDB.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
