@@ -74,7 +74,7 @@
 <!--- trophy (start) -->
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AlanWegner&theme=algolia" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AlanWegner&theme=algolia" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
