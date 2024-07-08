@@ -2,8 +2,7 @@
 
    <div id="header" align="justify">
       <h4>
-         En el 2022, empecé mí carrera en el área IT estudiando Programación. Me encuentro estudiando activamente para explorar áreas laborales diferentes, que se alineen con mis habilidades y brinden oportunidades de crecimiento.
-         Con una mentalidad orientada al aprendizaje constante, busco no solo mejorar mi situación laboral y económica, sino también contribuir al bienestar de la comunidad. Mi objetivo es no solo adquirir conocimiento, sino también compartirlo para beneficiar a                  otros. Aprecio su tiempo de lectura y estoy emocionado por las oportunidades que el futuro pueda ofrecer.
+         En el 2022, empecé mí carrera en el área IT estudiando Programación. Actualmente me encuentro en la búsqueda activa de nuevos desafíos laborales que se alineen con mis habilidades y brinden oportunidades de crecimiento. Estudiando activamente para explorar áreas laborales diferentes. Mi pasión está en la computación, habiendo estudiado Diseño Gráfico y animaciones audiovisuales. En la actualidad me encuentro con disponibilidad full time, dedicando gran parte  del estudio a la programación web Full Stack Developer.
       </h4>
    </div>
 
