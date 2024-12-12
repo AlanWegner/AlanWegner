@@ -28,11 +28,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="Redux" alt="" width="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" title="Apollo" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="" width="40"/>&nbsp;
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="" width="40"/>&nbsp;
  </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
